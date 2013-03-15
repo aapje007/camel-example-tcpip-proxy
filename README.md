@@ -20,7 +20,7 @@ kill to demonstrate failover. In practice, additional Fuse ESB containers would 
 ### Software Requirements:
 
 * JBoss Fuse 6.0.0
-* Fuse IDE (optional) -- http://fusesource.com/downloads
+* Fuse IDE (optional) -- http://repo.fusesource.com/ide/
 * Maven 2.2 or 3.0 -- http://maven.apache.org
 * JDK 1.6
 
